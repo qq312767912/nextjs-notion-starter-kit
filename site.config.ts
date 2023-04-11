@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '07ec9bb3a88b4d4282966cbbc11a6c3b',
+  rootNotionPageId: 'f38ec611a2d24a529454888de2ae09ef',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '卷毛儿的博客',
-  domain: 'https://frosted-cloud-3ca.notion.site/07ec9bb3a88b4d4282966cbbc11a6c3b',
+  domain: 'https://frosted-cloud-3ca.notion.site/f38ec611a2d24a529454888de2ae09ef',
   author: 'Juanmaoer',
 
   // open graph metadata (optional)
